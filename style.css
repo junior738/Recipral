@@ -54,4 +54,7 @@ body {
       display: block;
       text-align: left;
     }
-  }
+}
+#Bname{
+ text-align : bottom-left;
+}
