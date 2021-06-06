@@ -19,13 +19,13 @@ body {
   }
   
   .topnav a:hover {
-    background: black;
+    background: grey;
     color: white;
     border-radius: 8px;
   }
   
   .topnav a.active {
-    background: black;
+    background: grey;
     color: white;
     border-radius: 8px;
   }
