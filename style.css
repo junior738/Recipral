@@ -20,7 +20,7 @@ body {
   
   .topnav a:hover {
     background: #1b9bff;
-    color: white;
+    color: black;
     border-radius: 8px;
   }
   
@@ -42,7 +42,7 @@ body {
     }
   }
   
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
       position: absolute;
